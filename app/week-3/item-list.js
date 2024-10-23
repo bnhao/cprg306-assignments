@@ -77,9 +77,19 @@ export default function ItemList() {
 
 
     return (
-        <div>
+        <div className="grid grid-cols-1 gap-4">
             <Item ItemObj={item1} />
-            <Item Itemobj={item2} />
+            <Item ItemObj={item2} />
+            <Item ItemObj={item3} />
+            <Item ItemObj={item4} />
+            <Item ItemObj={item5} />
+            <Item ItemObj={item6} />
+            <Item ItemObj={item7} />
+            <Item ItemObj={item8} />
+            <Item ItemObj={item9} />
+            <Item ItemObj={item10} />
+            <Item ItemObj={item11} />
+            <Item ItemObj={item12} />
         </div>
     )
 }
