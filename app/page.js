@@ -10,6 +10,7 @@ export default function Page() {
       <br />
       <Link href="./week-4/" className="underline text-cyan-600 hover:text-cyan-300">Week 4 Assignments</Link>
       <Link href="./week-5/" className="underline text-cyan-600 hover:text-cyan-300">Week 5 Assignments</Link>
+      <Link href="./week-6/" className="underline text-cyan-600 hover:text-cyan-300">Week 6 Assignments</Link>
 
     </main>
   )
