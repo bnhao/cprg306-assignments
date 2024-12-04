@@ -1,4 +1,5 @@
 import ItemList from "./item-list.js";
+import NewItem from "./new-item.js";
 
 export default function Page() {
 
